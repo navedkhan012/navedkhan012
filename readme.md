@@ -24,7 +24,7 @@
 
 Hi, I'm Naved khan, but you can call me **Naved**. 
 
-I'm a Front-end React Developer from India 💚, **28 years old** 👶🏻 and **5 years of coding** 🧐. 
+I'm a Front-end React Developer from India 💚, 👶🏻 and **5 years of coding** 🧐. 
 
 **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
 
