@@ -1,5 +1,4 @@
-### Hi there 👋, this profile belongs to an ardent Front-end Developer | Open-source contributor 
-
+### Hi there 👋, this profile belongs to an ardent Front-end Developer 
 - 🔭 I’m currently working on ReactJS, TS, ES6+, GraphQL, Apollo, Flutter, React Native, JEST.
 - 🌱 I’m currently learning Data structures & Algorithms.
 - 📫 How to reach me: 📧 navedkhan012@gmail.com 
