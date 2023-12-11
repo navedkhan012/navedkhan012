@@ -25,13 +25,7 @@
 Hi, I'm Naved khan, but you can call me **Naved**. 
 
 I'm a Front-end React Developer from India 💚, 👶🏻 and **5 years of coding** 🧐. 
-
-**A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
-
-* ✏ Weekly writer on codepen.io, [follow me](https://codepen.io/navedkhan012). 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
+ 
 
 ----
 
